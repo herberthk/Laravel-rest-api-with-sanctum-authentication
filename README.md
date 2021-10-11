@@ -1,12 +1,11 @@
 # Laravel REST API with Sanctum authetication
 
-This is a REST API using auth tokens with Laravel Sanctum
+### This is a REST API using auth tokens with Laravel Sanctum
 
 ## Usage
 
 Change the *.env.example* to *.env* and add your database info
 
-For MySQL, add
 ```
 Edit .env file to meet database requirement
 
